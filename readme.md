@@ -85,6 +85,10 @@ Acknowledgements :
 # Screenshots :
 
 
+![Screenshot from 2024-07-28 09-47-12](https://github.com/user-attachments/assets/21396229-757d-42cf-8578-42b9c8b1f48d)
+
+![Screenshot from 2024-07-28 09-54-14](https://github.com/user-attachments/assets/4fc1afdf-e09d-4d7d-b940-ad3f80cc62ab)
+
 
 
 
